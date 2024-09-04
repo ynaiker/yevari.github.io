@@ -1,4 +1,3 @@
-# yevari.github.io
 ## Project Overview
 This repository contains the code and resources for the website design proposal created by Yevari Naiker. The website showcases my background, teaching philosophy, and various experiences related to design and technology education. It includes multiple pages with information about my university experience, professional background, and lesson plans.
 
